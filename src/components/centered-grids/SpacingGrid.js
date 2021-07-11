@@ -1,69 +1,79 @@
-import React from 'react';
-import { makeStyles } from '@material-ui/core/styles';
+import React, {useEffect} from 'react';
+import {makeStyles} from '@material-ui/core/styles';
 import Grid from '@material-ui/core/Grid';
-import FormLabel from '@material-ui/core/FormLabel';
-import FormControlLabel from '@material-ui/core/FormControlLabel';
-import RadioGroup from '@material-ui/core/RadioGroup';
-import Radio from '@material-ui/core/Radio';
-import Paper from '@material-ui/core/Paper';
+import {Redirect, useLocation} from "react-router-dom";
 
 const useStyles = makeStyles((theme) => ({
     root: {
         flexGrow: 1,
     },
     paper: {
-        height: 1426,
-        width: 1031,
-    },
-    control: {
-        padding: theme.spacing(2),
+        height: 968,
+        width: 700
     },
 }));
 
+const MIN_PAGE = 1;
+const MAX_PAGE = 604;
+const LEFT = 'LEFT';
+const RIGHT = 'RIGHT';
+
+function getCorrectPage(page) {
+    // if 1 or 2, return 1
+    // if 3 or 4, return 3
+    // if 5 or 6, return 5
+    if (!page) {
+        return MIN_PAGE;// return 1st page
+    }
+    let correctPage = Number(page);
+    if (correctPage > MAX_PAGE) {
+        correctPage = MAX_PAGE;
+    }
+    if (correctPage % 2 === 0) {
+        return Number(correctPage) - 1;
+    }
+    return correctPage;
+}
+
+function normalizePage(page) {
+    // coz first page is page 2, so need to add 1
+    // offset page by 1
+    return Number(page) + 1;
+}
+
+function getImageUrl(page, leftRight) {
+    let thePage = leftRight === LEFT ? (Number(page) + 1) : page;
+    return '../../../images/' + thePage + '.png'
+}
+
 export default function SpacingGrid() {
-    const [spacing, setSpacing] = React.useState(2);
     const classes = useStyles();
 
-    const handleChange = (event) => {
-        setSpacing(Number(event.target.value));
-    };
+    const search = useLocation().search;
+    const page = new URLSearchParams(search).get("page");
+    // console.log('page=' + page);
+    const correctPage = getCorrectPage(page);
+    // console.log('correctPage=' + correctPage);
+    const normalizedPage = normalizePage(correctPage);
+
+    // console.log('LEFT=' + getImageUrl(normalizedPage, LEFT));
+    // console.log('RIGHT=' + getImageUrl(normalizedPage, RIGHT));
+
+    useEffect(() => {
+
+    }, []);
 
     return (
-        <Grid container className={classes.root} spacing={2}>
+        <Grid container className={classes.root} spacing={0}>
             <Grid item xs={12}>
-                <Grid container justifyContent="center" spacing={spacing}>
+                <Grid container justifyContent="center" spacing={0} direction='row-reverse'>
                     <Grid item>
-                        <img src={require('../../images/5.png').default} className={classes.paper}/>
+                        <img src={getImageUrl(normalizedPage, RIGHT)} className={classes.paper}/>
                     </Grid>
                     <Grid item>
-                        <img src={require('../../images/4.png').default} className={classes.paper}/>
+                        <img src={getImageUrl(normalizedPage, LEFT)} className={classes.paper}/>
                     </Grid>
                 </Grid>
-            </Grid>
-            <Grid item xs={12}>
-                <Paper className={classes.control}>
-                    <Grid container>
-                        <Grid item>
-                            <FormLabel>spacing</FormLabel>
-                            <RadioGroup
-                                name="spacing"
-                                aria-label="spacing"
-                                value={spacing.toString()}
-                                onChange={handleChange}
-                                row
-                            >
-                                {[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10].map((value) => (
-                                    <FormControlLabel
-                                        key={value}
-                                        value={value.toString()}
-                                        control={<Radio />}
-                                        label={value.toString()}
-                                    />
-                                ))}
-                            </RadioGroup>
-                        </Grid>
-                    </Grid>
-                </Paper>
             </Grid>
         </Grid>
     );

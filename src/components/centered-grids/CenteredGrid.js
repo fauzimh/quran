@@ -17,11 +17,11 @@ export default function CenteredGrid() {
         <div>
             <Grid container spacing={2} alignContent='flex-start' alignItems='flex-start'>
                 <Grid item xs={6} alignContent='flex-end' alignItems='flex-end'>
-                    <img src={require('../../images/5.png').default}/>
+                    <img src={require('../../../public/images/5.png').default}/>
 
                 </Grid>
                 <Grid item xs={6} alignContent='flex-start' alignItems='flex-start'>
-                    <img src={require('../../images/4.png').default}/>
+                    <img src={require('../../../public/images/4.png').default}/>
                     {/*<Paper className={classes.paper}>xs=6</Paper>*/}
                 </Grid>
             </Grid>
