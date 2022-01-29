@@ -1,9 +1,18 @@
 import React, {useEffect, useState} from "react";
 import axios from 'axios';
+import {makeStyles} from "@material-ui/core";
 
 export default function Page({url, nextUrl, clzName}) {
     const [dataAvailable, setDataAvailable] = useState(false);
     const [nextDataAvailable, setNextDataAvailable] = useState(false);
+
+    const useStyles = makeStyles((theme) => ({
+        loader: {
+            marginTop: 200,
+        }
+    }));
+
+    const classes = useStyles();
 
     useEffect(()=>{
         if (dataAvailable && !nextDataAvailable && nextUrl) {
@@ -63,7 +72,7 @@ export default function Page({url, nextUrl, clzName}) {
     else {
         return (
             <div className={clzName}>
-                <img src={'../../../Infinity-1s-200px.gif'}/>
+                <img src={'../../../circular-loader.gif'} className={classes.loader}/>
             </div>
         );
     }
