@@ -1,5 +1,10 @@
 # Getting Started with Quran Medina App
 
+I love the old Medina Quran very much that I decided to make a web app of it.
+I started by downloading old Quran Medina pdf and then use some script to automatically convert that pdf to png images.
+After that, I created this simple react app that display those png images side by side.
+I hope you like it and benefit from it.
+
 This is a screen capture of the app: 
 ![Screen Capture][./Quran.png]
 And this is the demo link: [https://mushaf-azifu.web.app/?page=317](https://mushaf-azifu.web.app/?page=317)
