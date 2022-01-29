@@ -23,6 +23,9 @@ function getCorrectPage(page) {
         return MIN_PAGE;// return 1st page
     }
     let correctPage = Number(page);
+    if(correctPage < MIN_PAGE){
+        correctPage = MIN_PAGE;
+    }
     if (correctPage > MAX_PAGE) {
         correctPage = MAX_PAGE;
     }
@@ -43,7 +46,7 @@ function getImageUrl(page, leftRight) {
 }
 
 function getNextPage(correctPage){
-    return Number(correctPage+2);
+    return Number(getCorrectPage(correctPage+2));
 }
 
 function getNextPageUrl(correctPage, cache_val){
@@ -55,7 +58,7 @@ function getNextPageUrl(correctPage, cache_val){
 }
 
 function getPrevPage(correctPage){
-    return Number(correctPage-2);
+    return Number(getCorrectPage(correctPage-2));
 }
 
 function getPrevPageUrl(correctPage, cache_val){
