@@ -1,0 +1,1142 @@
+[
+  {
+    "suratId": 1,
+    "suratName": "Al-Faatiha",
+    "pageNumber": 1
+  },
+  {
+    "suratId": 2,
+    "suratName": "Al-Baqara",
+    "pageNumber": 2
+  },
+  {
+    "suratId": 3,
+    "suratName": "Aal-i-Imraan",
+    "pageNumber": 50
+  },
+  {
+    "suratId": 4,
+    "suratName": "An-Nisaa",
+    "pageNumber": 77
+  },
+  {
+    "suratId": 5,
+    "suratName": "Al-Maaida",
+    "pageNumber": 106
+  },
+  {
+    "suratId": 6,
+    "suratName": "Al-An'aam",
+    "pageNumber": 128
+  },
+  {
+    "suratId": 7,
+    "suratName": "Al-A'raaf",
+    "pageNumber": 151
+  },
+  {
+    "suratId": 8,
+    "suratName": "Al-Anfaal",
+    "pageNumber": 177
+  },
+  {
+    "suratId": 9,
+    "suratName": "At-Tawba",
+    "pageNumber": 187
+  },
+  {
+    "suratId": 10,
+    "suratName": "Yunus",
+    "pageNumber": 208
+  },
+  {
+    "suratId": 11,
+    "suratName": "Hud",
+    "pageNumber": 221
+  },
+  {
+    "suratId": 12,
+    "suratName": "Yusuf",
+    "pageNumber": 235
+  },
+  {
+    "suratId": 13,
+    "suratName": "Ar-Ra'd",
+    "pageNumber": 249
+  },
+  {
+    "suratId": 14,
+    "suratName": "Ibrahim",
+    "pageNumber": 255
+  },
+  {
+    "suratId": 15,
+    "suratName": "Al-Hijr",
+    "pageNumber": 262
+  },
+  {
+    "suratId": 16,
+    "suratName": "An-Nahl",
+    "pageNumber": 267
+  },
+  {
+    "suratId": 17,
+    "suratName": "Al-Israa",
+    "pageNumber": 282
+  },
+  {
+    "suratId": 18,
+    "suratName": "Al-Kahf",
+    "pageNumber": 293
+  },
+  {
+    "suratId": 19,
+    "suratName": "Maryam",
+    "pageNumber": 305
+  },
+  {
+    "suratId": 20,
+    "suratName": "Taa-Haa",
+    "pageNumber": 312
+  },
+  {
+    "suratId": 21,
+    "suratName": "Al-Anbiyaa",
+    "pageNumber": 322
+  },
+  {
+    "suratId": 22,
+    "suratName": "Al-Hajj",
+    "pageNumber": 332
+  },
+  {
+    "suratId": 23,
+    "suratName": "Al-Muminoon",
+    "pageNumber": 342
+  },
+  {
+    "suratId": 24,
+    "suratName": "An-Noor",
+    "pageNumber": 350
+  },
+  {
+    "suratId": 25,
+    "suratName": "Al-Furqaan",
+    "pageNumber": 359
+  },
+  {
+    "suratId": 26,
+    "suratName": "Ash-Shu'araa",
+    "pageNumber": 367
+  },
+  {
+    "suratId": 27,
+    "suratName": "An-Naml",
+    "pageNumber": 377
+  },
+  {
+    "suratId": 28,
+    "suratName": "Al-Qasas",
+    "pageNumber": 385
+  },
+  {
+    "suratId": 29,
+    "suratName": "Al-Ankaboot",
+    "pageNumber": 396
+  },
+  {
+    "suratId": 30,
+    "suratName": "Ar-Room",
+    "pageNumber": 404
+  },
+  {
+    "suratId": 31,
+    "suratName": "Luqman",
+    "pageNumber": 411
+  },
+  {
+    "suratId": 32,
+    "suratName": "As-Sajda",
+    "pageNumber": 415
+  },
+  {
+    "suratId": 33,
+    "suratName": "Al-Ahzaab",
+    "pageNumber": 418
+  },
+  {
+    "suratId": 34,
+    "suratName": "Saba",
+    "pageNumber": 428
+  },
+  {
+    "suratId": 35,
+    "suratName": "Faatir",
+    "pageNumber": 434
+  },
+  {
+    "suratId": 36,
+    "suratName": "Yaseen",
+    "pageNumber": 440
+  },
+  {
+    "suratId": 37,
+    "suratName": "As-Saaffaat",
+    "pageNumber": 446
+  },
+  {
+    "suratId": 38,
+    "suratName": "Saad",
+    "pageNumber": 453
+  },
+  {
+    "suratId": 39,
+    "suratName": "Az-Zumar",
+    "pageNumber": 458
+  },
+  {
+    "suratId": 40,
+    "suratName": "Ghafir",
+    "pageNumber": 467
+  },
+  {
+    "suratId": 41,
+    "suratName": "Fussilat",
+    "pageNumber": 477
+  },
+  {
+    "suratId": 42,
+    "suratName": "Ash-Shura",
+    "pageNumber": 483
+  },
+  {
+    "suratId": 43,
+    "suratName": "Az-Zukhruf",
+    "pageNumber": 489
+  },
+  {
+    "suratId": 44,
+    "suratName": "Ad-Dukhaan",
+    "pageNumber": 496
+  },
+  {
+    "suratId": 45,
+    "suratName": "Al-Jaathiya",
+    "pageNumber": 499
+  },
+  {
+    "suratId": 46,
+    "suratName": "Al-Ahqaf",
+    "pageNumber": 502
+  },
+  {
+    "suratId": 47,
+    "suratName": "Muhammad",
+    "pageNumber": 507
+  },
+  {
+    "suratId": 48,
+    "suratName": "Al-Fath",
+    "pageNumber": 511
+  },
+  {
+    "suratId": 49,
+    "suratName": "Al-Hujuraat",
+    "pageNumber": 515
+  },
+  {
+    "suratId": 50,
+    "suratName": "Qaaf",
+    "pageNumber": 518
+  },
+  {
+    "suratId": 51,
+    "suratName": "Adh-Dhaariyat",
+    "pageNumber": 520
+  },
+  {
+    "suratId": 52,
+    "suratName": "At-Tur",
+    "pageNumber": 523
+  },
+  {
+    "suratId": 53,
+    "suratName": "An-Najm",
+    "pageNumber": 526
+  },
+  {
+    "suratId": 54,
+    "suratName": "Al-Qamar",
+    "pageNumber": 528
+  },
+  {
+    "suratId": 55,
+    "suratName": "Ar-Rahmaan",
+    "pageNumber": 531
+  },
+  {
+    "suratId": 56,
+    "suratName": "Al-Waaqia",
+    "pageNumber": 534
+  },
+  {
+    "suratId": 57,
+    "suratName": "Al-Hadid",
+    "pageNumber": 537
+  },
+  {
+    "suratId": 58,
+    "suratName": "Al-Mujaadila",
+    "pageNumber": 542
+  },
+  {
+    "suratId": 59,
+    "suratName": "Al-Hashr",
+    "pageNumber": 545
+  },
+  {
+    "suratId": 60,
+    "suratName": "Al-Mumtahana",
+    "pageNumber": 549
+  },
+  {
+    "suratId": 61,
+    "suratName": "As-Saff",
+    "pageNumber": 551
+  },
+  {
+    "suratId": 62,
+    "suratName": "Al-Jumu'a",
+    "pageNumber": 553
+  },
+  {
+    "suratId": 63,
+    "suratName": "Al-Munaafiqoon",
+    "pageNumber": 554
+  },
+  {
+    "suratId": 64,
+    "suratName": "At-Taghaabun",
+    "pageNumber": 556
+  },
+  {
+    "suratId": 65,
+    "suratName": "At-Talaaq",
+    "pageNumber": 558
+  },
+  {
+    "suratId": 66,
+    "suratName": "At-Tahrim",
+    "pageNumber": 560
+  },
+  {
+    "suratId": 67,
+    "suratName": "Al-Mulk",
+    "pageNumber": 562
+  },
+  {
+    "suratId": 68,
+    "suratName": "Al-Qalam",
+    "pageNumber": 564
+  },
+  {
+    "suratId": 69,
+    "suratName": "Al-Haaqqa",
+    "pageNumber": 566
+  },
+  {
+    "suratId": 70,
+    "suratName": "Al-Ma'aarij",
+    "pageNumber": 568
+  },
+  {
+    "suratId": 71,
+    "suratName": "Nooh",
+    "pageNumber": 570
+  },
+  {
+    "suratId": 72,
+    "suratName": "Al-Jinn",
+    "pageNumber": 572
+  },
+  {
+    "suratId": 73,
+    "suratName": "Al-Muzzammil",
+    "pageNumber": 574
+  },
+  {
+    "suratId": 74,
+    "suratName": "Al-Muddaththir",
+    "pageNumber": 575
+  },
+  {
+    "suratId": 75,
+    "suratName": "Al-Qiyaama",
+    "pageNumber": 577
+  },
+  {
+    "suratId": 76,
+    "suratName": "Al-Insaan",
+    "pageNumber": 578
+  },
+  {
+    "suratId": 77,
+    "suratName": "Al-Mursalaat",
+    "pageNumber": 580
+  },
+  {
+    "suratId": 78,
+    "suratName": "An-Naba",
+    "pageNumber": 582
+  },
+  {
+    "suratId": 79,
+    "suratName": "An-Naazi'aat",
+    "pageNumber": 583
+  },
+  {
+    "suratId": 80,
+    "suratName": "Abasa",
+    "pageNumber": 585
+  },
+  {
+    "suratId": 81,
+    "suratName": "At-Takwir",
+    "pageNumber": 586
+  },
+  {
+    "suratId": 82,
+    "suratName": "Al-Infitaar",
+    "pageNumber": 587
+  },
+  {
+    "suratId": 83,
+    "suratName": "Al-Mutaffifin",
+    "pageNumber": 587
+  },
+  {
+    "suratId": 84,
+    "suratName": "Al-Inshiqaaq",
+    "pageNumber": 589
+  },
+  {
+    "suratId": 85,
+    "suratName": "Al-Burooj",
+    "pageNumber": 590
+  },
+  {
+    "suratId": 86,
+    "suratName": "At-Taariq",
+    "pageNumber": 591
+  },
+  {
+    "suratId": 87,
+    "suratName": "Al-A'laa",
+    "pageNumber": 591
+  },
+  {
+    "suratId": 88,
+    "suratName": "Al-Ghaashiya",
+    "pageNumber": 592
+  },
+  {
+    "suratId": 89,
+    "suratName": "Al-Fajr",
+    "pageNumber": 593
+  },
+  {
+    "suratId": 90,
+    "suratName": "Al-Balad",
+    "pageNumber": 594
+  },
+  {
+    "suratId": 91,
+    "suratName": "Ash-Shams",
+    "pageNumber": 595
+  },
+  {
+    "suratId": 92,
+    "suratName": "Al-Lail",
+    "pageNumber": 595
+  },
+  {
+    "suratId": 93,
+    "suratName": "Ad-Dhuhaa",
+    "pageNumber": 596
+  },
+  {
+    "suratId": 94,
+    "suratName": "Ash-Sharh",
+    "pageNumber": 596
+  },
+  {
+    "suratId": 95,
+    "suratName": "At-Tin",
+    "pageNumber": 597
+  },
+  {
+    "suratId": 96,
+    "suratName": "Al-Alaq",
+    "pageNumber": 597
+  },
+  {
+    "suratId": 97,
+    "suratName": "Al-Qadr",
+    "pageNumber": 598
+  },
+  {
+    "suratId": 98,
+    "suratName": "Al-Bayyina",
+    "pageNumber": 598
+  },
+  {
+    "suratId": 99,
+    "suratName": "Az-Zalzala",
+    "pageNumber": 599
+  },
+  {
+    "suratId": 100,
+    "suratName": "Al-Aadiyaat",
+    "pageNumber": 599
+  },
+  {
+    "suratId": 101,
+    "suratName": "Al-Qaari'a",
+    "pageNumber": 600
+  },
+  {
+    "suratId": 102,
+    "suratName": "At-Takaathur",
+    "pageNumber": 600
+  },
+  {
+    "suratId": 103,
+    "suratName": "Al-Asr",
+    "pageNumber": 601
+  },
+  {
+    "suratId": 104,
+    "suratName": "Al-Humaza",
+    "pageNumber": 601
+  },
+  {
+    "suratId": 105,
+    "suratName": "Al-Fil",
+    "pageNumber": 601
+  },
+  {
+    "suratId": 106,
+    "suratName": "Quraish",
+    "pageNumber": 602
+  },
+  {
+    "suratId": 107,
+    "suratName": "Al-Maa'un",
+    "pageNumber": 602
+  },
+  {
+    "suratId": 108,
+    "suratName": "Al-Kawthar",
+    "pageNumber": 602
+  },
+  {
+    "suratId": 109,
+    "suratName": "Al-Kaafiroon",
+    "pageNumber": 603
+  },
+  {
+    "suratId": 110,
+    "suratName": "An-Nasr",
+    "pageNumber": 603
+  },
+  {
+    "suratId": 111,
+    "suratName": "Al-Masad",
+    "pageNumber": 603
+  },
+  {
+    "suratId": 112,
+    "suratName": "Al-Ikhlaas",
+    "pageNumber": 604
+  },
+  {
+    "suratId": 113,
+    "suratName": "Al-Falaq",
+    "pageNumber": 604
+  },
+  {
+    "suratId": 114,
+    "suratName": "An-Naas",
+    "pageNumber": 604
+  },
+  {
+    "suratId": 1,
+    "suratName": "Al-Faatiha",
+    "pageNumber": 1
+  },
+  {
+    "suratId": 2,
+    "suratName": "Al-Baqara",
+    "pageNumber": 2
+  },
+  {
+    "suratId": 3,
+    "suratName": "Aal-i-Imraan",
+    "pageNumber": 50
+  },
+  {
+    "suratId": 4,
+    "suratName": "An-Nisaa",
+    "pageNumber": 77
+  },
+  {
+    "suratId": 5,
+    "suratName": "Al-Maaida",
+    "pageNumber": 106
+  },
+  {
+    "suratId": 6,
+    "suratName": "Al-An'aam",
+    "pageNumber": 128
+  },
+  {
+    "suratId": 7,
+    "suratName": "Al-A'raaf",
+    "pageNumber": 151
+  },
+  {
+    "suratId": 8,
+    "suratName": "Al-Anfaal",
+    "pageNumber": 177
+  },
+  {
+    "suratId": 9,
+    "suratName": "At-Tawba",
+    "pageNumber": 187
+  },
+  {
+    "suratId": 10,
+    "suratName": "Yunus",
+    "pageNumber": 208
+  },
+  {
+    "suratId": 11,
+    "suratName": "Hud",
+    "pageNumber": 221
+  },
+  {
+    "suratId": 12,
+    "suratName": "Yusuf",
+    "pageNumber": 235
+  },
+  {
+    "suratId": 13,
+    "suratName": "Ar-Ra'd",
+    "pageNumber": 249
+  },
+  {
+    "suratId": 14,
+    "suratName": "Ibrahim",
+    "pageNumber": 255
+  },
+  {
+    "suratId": 15,
+    "suratName": "Al-Hijr",
+    "pageNumber": 262
+  },
+  {
+    "suratId": 16,
+    "suratName": "An-Nahl",
+    "pageNumber": 267
+  },
+  {
+    "suratId": 17,
+    "suratName": "Al-Israa",
+    "pageNumber": 282
+  },
+  {
+    "suratId": 18,
+    "suratName": "Al-Kahf",
+    "pageNumber": 293
+  },
+  {
+    "suratId": 19,
+    "suratName": "Maryam",
+    "pageNumber": 305
+  },
+  {
+    "suratId": 20,
+    "suratName": "Taa-Haa",
+    "pageNumber": 312
+  },
+  {
+    "suratId": 21,
+    "suratName": "Al-Anbiyaa",
+    "pageNumber": 322
+  },
+  {
+    "suratId": 22,
+    "suratName": "Al-Hajj",
+    "pageNumber": 332
+  },
+  {
+    "suratId": 23,
+    "suratName": "Al-Muminoon",
+    "pageNumber": 342
+  },
+  {
+    "suratId": 24,
+    "suratName": "An-Noor",
+    "pageNumber": 350
+  },
+  {
+    "suratId": 25,
+    "suratName": "Al-Furqaan",
+    "pageNumber": 359
+  },
+  {
+    "suratId": 26,
+    "suratName": "Ash-Shu'araa",
+    "pageNumber": 367
+  },
+  {
+    "suratId": 27,
+    "suratName": "An-Naml",
+    "pageNumber": 377
+  },
+  {
+    "suratId": 28,
+    "suratName": "Al-Qasas",
+    "pageNumber": 385
+  },
+  {
+    "suratId": 29,
+    "suratName": "Al-Ankaboot",
+    "pageNumber": 396
+  },
+  {
+    "suratId": 30,
+    "suratName": "Ar-Room",
+    "pageNumber": 404
+  },
+  {
+    "suratId": 31,
+    "suratName": "Luqman",
+    "pageNumber": 411
+  },
+  {
+    "suratId": 32,
+    "suratName": "As-Sajda",
+    "pageNumber": 415
+  },
+  {
+    "suratId": 33,
+    "suratName": "Al-Ahzaab",
+    "pageNumber": 418
+  },
+  {
+    "suratId": 34,
+    "suratName": "Saba",
+    "pageNumber": 428
+  },
+  {
+    "suratId": 35,
+    "suratName": "Faatir",
+    "pageNumber": 434
+  },
+  {
+    "suratId": 36,
+    "suratName": "Yaseen",
+    "pageNumber": 440
+  },
+  {
+    "suratId": 37,
+    "suratName": "As-Saaffaat",
+    "pageNumber": 446
+  },
+  {
+    "suratId": 38,
+    "suratName": "Saad",
+    "pageNumber": 453
+  },
+  {
+    "suratId": 39,
+    "suratName": "Az-Zumar",
+    "pageNumber": 458
+  },
+  {
+    "suratId": 40,
+    "suratName": "Ghafir",
+    "pageNumber": 467
+  },
+  {
+    "suratId": 41,
+    "suratName": "Fussilat",
+    "pageNumber": 477
+  },
+  {
+    "suratId": 42,
+    "suratName": "Ash-Shura",
+    "pageNumber": 483
+  },
+  {
+    "suratId": 43,
+    "suratName": "Az-Zukhruf",
+    "pageNumber": 489
+  },
+  {
+    "suratId": 44,
+    "suratName": "Ad-Dukhaan",
+    "pageNumber": 496
+  },
+  {
+    "suratId": 45,
+    "suratName": "Al-Jaathiya",
+    "pageNumber": 499
+  },
+  {
+    "suratId": 46,
+    "suratName": "Al-Ahqaf",
+    "pageNumber": 502
+  },
+  {
+    "suratId": 47,
+    "suratName": "Muhammad",
+    "pageNumber": 507
+  },
+  {
+    "suratId": 48,
+    "suratName": "Al-Fath",
+    "pageNumber": 511
+  },
+  {
+    "suratId": 49,
+    "suratName": "Al-Hujuraat",
+    "pageNumber": 515
+  },
+  {
+    "suratId": 50,
+    "suratName": "Qaaf",
+    "pageNumber": 518
+  },
+  {
+    "suratId": 51,
+    "suratName": "Adh-Dhaariyat",
+    "pageNumber": 520
+  },
+  {
+    "suratId": 52,
+    "suratName": "At-Tur",
+    "pageNumber": 523
+  },
+  {
+    "suratId": 53,
+    "suratName": "An-Najm",
+    "pageNumber": 526
+  },
+  {
+    "suratId": 54,
+    "suratName": "Al-Qamar",
+    "pageNumber": 528
+  },
+  {
+    "suratId": 55,
+    "suratName": "Ar-Rahmaan",
+    "pageNumber": 531
+  },
+  {
+    "suratId": 56,
+    "suratName": "Al-Waaqia",
+    "pageNumber": 534
+  },
+  {
+    "suratId": 57,
+    "suratName": "Al-Hadid",
+    "pageNumber": 537
+  },
+  {
+    "suratId": 58,
+    "suratName": "Al-Mujaadila",
+    "pageNumber": 542
+  },
+  {
+    "suratId": 59,
+    "suratName": "Al-Hashr",
+    "pageNumber": 545
+  },
+  {
+    "suratId": 60,
+    "suratName": "Al-Mumtahana",
+    "pageNumber": 549
+  },
+  {
+    "suratId": 61,
+    "suratName": "As-Saff",
+    "pageNumber": 551
+  },
+  {
+    "suratId": 62,
+    "suratName": "Al-Jumu'a",
+    "pageNumber": 553
+  },
+  {
+    "suratId": 63,
+    "suratName": "Al-Munaafiqoon",
+    "pageNumber": 554
+  },
+  {
+    "suratId": 64,
+    "suratName": "At-Taghaabun",
+    "pageNumber": 556
+  },
+  {
+    "suratId": 65,
+    "suratName": "At-Talaaq",
+    "pageNumber": 558
+  },
+  {
+    "suratId": 66,
+    "suratName": "At-Tahrim",
+    "pageNumber": 560
+  },
+  {
+    "suratId": 67,
+    "suratName": "Al-Mulk",
+    "pageNumber": 562
+  },
+  {
+    "suratId": 68,
+    "suratName": "Al-Qalam",
+    "pageNumber": 564
+  },
+  {
+    "suratId": 69,
+    "suratName": "Al-Haaqqa",
+    "pageNumber": 566
+  },
+  {
+    "suratId": 70,
+    "suratName": "Al-Ma'aarij",
+    "pageNumber": 568
+  },
+  {
+    "suratId": 71,
+    "suratName": "Nooh",
+    "pageNumber": 570
+  },
+  {
+    "suratId": 72,
+    "suratName": "Al-Jinn",
+    "pageNumber": 572
+  },
+  {
+    "suratId": 73,
+    "suratName": "Al-Muzzammil",
+    "pageNumber": 574
+  },
+  {
+    "suratId": 74,
+    "suratName": "Al-Muddaththir",
+    "pageNumber": 575
+  },
+  {
+    "suratId": 75,
+    "suratName": "Al-Qiyaama",
+    "pageNumber": 577
+  },
+  {
+    "suratId": 76,
+    "suratName": "Al-Insaan",
+    "pageNumber": 578
+  },
+  {
+    "suratId": 77,
+    "suratName": "Al-Mursalaat",
+    "pageNumber": 580
+  },
+  {
+    "suratId": 78,
+    "suratName": "An-Naba",
+    "pageNumber": 582
+  },
+  {
+    "suratId": 79,
+    "suratName": "An-Naazi'aat",
+    "pageNumber": 583
+  },
+  {
+    "suratId": 80,
+    "suratName": "Abasa",
+    "pageNumber": 585
+  },
+  {
+    "suratId": 81,
+    "suratName": "At-Takwir",
+    "pageNumber": 586
+  },
+  {
+    "suratId": 82,
+    "suratName": "Al-Infitaar",
+    "pageNumber": 587
+  },
+  {
+    "suratId": 83,
+    "suratName": "Al-Mutaffifin",
+    "pageNumber": 587
+  },
+  {
+    "suratId": 84,
+    "suratName": "Al-Inshiqaaq",
+    "pageNumber": 589
+  },
+  {
+    "suratId": 85,
+    "suratName": "Al-Burooj",
+    "pageNumber": 590
+  },
+  {
+    "suratId": 86,
+    "suratName": "At-Taariq",
+    "pageNumber": 591
+  },
+  {
+    "suratId": 87,
+    "suratName": "Al-A'laa",
+    "pageNumber": 591
+  },
+  {
+    "suratId": 88,
+    "suratName": "Al-Ghaashiya",
+    "pageNumber": 592
+  },
+  {
+    "suratId": 89,
+    "suratName": "Al-Fajr",
+    "pageNumber": 593
+  },
+  {
+    "suratId": 90,
+    "suratName": "Al-Balad",
+    "pageNumber": 594
+  },
+  {
+    "suratId": 91,
+    "suratName": "Ash-Shams",
+    "pageNumber": 595
+  },
+  {
+    "suratId": 92,
+    "suratName": "Al-Lail",
+    "pageNumber": 595
+  },
+  {
+    "suratId": 93,
+    "suratName": "Ad-Dhuhaa",
+    "pageNumber": 596
+  },
+  {
+    "suratId": 94,
+    "suratName": "Ash-Sharh",
+    "pageNumber": 596
+  },
+  {
+    "suratId": 95,
+    "suratName": "At-Tin",
+    "pageNumber": 597
+  },
+  {
+    "suratId": 96,
+    "suratName": "Al-Alaq",
+    "pageNumber": 597
+  },
+  {
+    "suratId": 97,
+    "suratName": "Al-Qadr",
+    "pageNumber": 598
+  },
+  {
+    "suratId": 98,
+    "suratName": "Al-Bayyina",
+    "pageNumber": 598
+  },
+  {
+    "suratId": 99,
+    "suratName": "Az-Zalzala",
+    "pageNumber": 599
+  },
+  {
+    "suratId": 100,
+    "suratName": "Al-Aadiyaat",
+    "pageNumber": 599
+  },
+  {
+    "suratId": 101,
+    "suratName": "Al-Qaari'a",
+    "pageNumber": 600
+  },
+  {
+    "suratId": 102,
+    "suratName": "At-Takaathur",
+    "pageNumber": 600
+  },
+  {
+    "suratId": 103,
+    "suratName": "Al-Asr",
+    "pageNumber": 601
+  },
+  {
+    "suratId": 104,
+    "suratName": "Al-Humaza",
+    "pageNumber": 601
+  },
+  {
+    "suratId": 105,
+    "suratName": "Al-Fil",
+    "pageNumber": 601
+  },
+  {
+    "suratId": 106,
+    "suratName": "Quraish",
+    "pageNumber": 602
+  },
+  {
+    "suratId": 107,
+    "suratName": "Al-Maa'un",
+    "pageNumber": 602
+  },
+  {
+    "suratId": 108,
+    "suratName": "Al-Kawthar",
+    "pageNumber": 602
+  },
+  {
+    "suratId": 109,
+    "suratName": "Al-Kaafiroon",
+    "pageNumber": 603
+  },
+  {
+    "suratId": 110,
+    "suratName": "An-Nasr",
+    "pageNumber": 603
+  },
+  {
+    "suratId": 111,
+    "suratName": "Al-Masad",
+    "pageNumber": 603
+  },
+  {
+    "suratId": 112,
+    "suratName": "Al-Ikhlaas",
+    "pageNumber": 604
+  },
+  {
+    "suratId": 113,
+    "suratName": "Al-Falaq",
+    "pageNumber": 604
+  },
+  {
+    "suratId": 114,
+    "suratName": "An-Naas",
+    "pageNumber": 604
+  }
+]
